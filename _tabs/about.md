@@ -13,11 +13,12 @@ values:
 
 
 ### Employment
-- Researcher, Radar Analysis Division, Weather Radar Center, Korea Meteorological Administration, 2018.02-2021.03.
+- Assistant Editor (Temporary), [JKAS (Journal of the Korean Astronomical Society)](http://jkas.kas.org), [Korean Astronomical Society](http://en.kas.org/), 2022.01-present
+- Researcher, Radar Analysis Division, [Weather Radar Center](https://radar.kma.go.kr/eng/main.do), [Korea Meteorological Administration](https://www.kma.go.kr/eng/index.jsp), 2018.02-2021.03
 
 ### Education
-- M.S./Ph.D., School of Space Research, Kyung Hee University, 2015.03-present.
-- B.S., Department of Astronomy & Space Science, Kyung Hee University, 2011.03-2015.02.
+- M.S./Ph.D., School of Space Research, Kyung Hee University, 2015.03-present
+- B.S., Department of Astronomy & Space Science, Kyung Hee University, 2011.03-2015.02
 
 ## PUBLICATIONS
 ### Refered
