@@ -21,7 +21,7 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Academic Hompage                # the main title
+title: Academic Homepage               # the main title
 
 tagline: Planetary Scientist           # it will display as the sub-title
 

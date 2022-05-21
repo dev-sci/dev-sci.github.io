@@ -17,7 +17,7 @@ values:
 
 ### Education
 - M.S./Ph.D., School of Space Research, Kyung Hee University, 2015.03-present.
-- B.S., Space Science, Kyung Hee University, 2011.03-2015.02.
+- B.S., Department of Astronomy & Space Science, Kyung Hee University, 2011.03-2015.02.
 
 ## PUBLICATIONS
 ### Refered
