@@ -36,7 +36,7 @@ values:
 2022
 : **\[Oral, [Abstract](../assets/pdf/202208_KGU_Abstract_SSKim.pdf)\]** Sungsoo S. Kim, **Kilho Baek**, Chae Kyung Sim, **_Asymmetric Space Weathering on Lunar Crater Walls_**, The 3<sup>rd</sup> KGU meeting, Alpensia, Pyeongchang, Rep. of Korea, Aug. 17-19, 2022.
 : **\[Oral, [Abstract](../assets/pdf/202208_KGU_Abstract_EJCho.pdf)\]** Eunjin Cho, Chae Kyung Sim, **Kilho Baek**, Young-Jun Choi, Sungsoo S. Kim, **_UV reflectance pattern of Copernican and Eratosthenian craters in the lunar highland region_**, The 3<sup>rd</sup> KGU meeting, Alpensia, Pyeongchang, Rep. of Korea, Aug. 17-19, 2022.
-: **\[[Poster](../assets/pdf/202208_IAUGA_Poster_KHBaek.pdf), [Abstract](../assets/pdf/202208_IAUGA_Abstract_KHBaek.pdf)\]** **Kilho Baek**, Sungsoo S. Kim, Chae Kyung Sim, **_Asymmetric space weathering in northern and southern hemispheres on the Moon_**, XXXI<sup>st</sup> IAUGA, BEXCO, Busan, Rep. of Korea, Aug. 2-11, 2022.
+: **\[[Poster](../assets/pdf/202208_IAUGA_Poster_KHBaek(.pdf), [Abstract](../assets/pdf/202208_IAUGA_Abstract_KHBaek.pdf)\]** **Kilho Baek**, Sungsoo S. Kim, Chae Kyung Sim, **_Asymmetric space weathering in northern and southern hemispheres on the Moon_**, XXXI<sup>st</sup> IAUGA, BEXCO, Busan, Rep. of Korea, Aug. 2-11, 2022.
 : **\[[Poster](../assets/pdf/202204_KSSS_Poster_KHBaek.pdf), [Abstract](../assets/pdf/202204_KSSS_Abstract_KHBaek.pdf)\]** **Kilho Baek**, Sungsoo S. Kim, Chae Kyung Sim, **_Opposite trends of optical maturity in northern and southern hemispheres on the lunar surface_**, KSSS spring meeting, Sol Beach, Samcheok, Rep. of Korea, Apr. 27-29, 2022.
 
 2021
