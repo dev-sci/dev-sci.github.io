@@ -34,6 +34,10 @@ values:
 ## Talks & Presentations
 ---
 2022
+: **\[Oral, Abstract\]** **Kilho Baek**, Sungsoo S. Kim, Chae Kyung Sim, **_Asymmetric Space Weathering on Lunar Crater Walls with an Updated Crater List_**, KSSS fall meeting, Ramada Plaza, Jeju, Rep. of Korea, Oct. 26-28, 2022.
+: **\[Poster, Abstract\]** Eunjin Cho, Chae Kyung Sim, **Kilho Baek**, Young-Jun Choi, Sungsoo S. Kim, **_Analysis of spectral difference between crater floors and halos_**, KSSS fall meeting, Ramada Plaza, Jeju, Rep. of Korea, Oct. 26-28, 2022.
+: **\[Oral, Abstract\]** **Kilho Baek**, Sungsoo S. Kim, Chae Kyung Sim, **_A Study on Asymmetric Space Weathering with an Updated Lunar Crater list_**, KAS fall meeting, LAHAN Select, Gyeongju, Rep. of Korea, Oct. 12-14, 2022.
+: **\[Poster, Abstract\]** Serin Kim, **Kilho Baek**, Minsup Jeong, Sungsoo S. Kim, Young-Jun Choi, Chae Kyung Sim, **_Data Processing Pipeline for KPLO/PolCam_**, KAS fall meeting, LAHAN Select, Gyeongju, Rep. of Korea, Oct. 12-14, 2022.
 : **\[Oral, [Abstract](../assets/pdf/202208_KGU_Abstract_SSKim.pdf)\]** Sungsoo S. Kim, **Kilho Baek**, Chae Kyung Sim, **_Asymmetric Space Weathering on Lunar Crater Walls_**, The 3<sup>rd</sup> KGU meeting, Alpensia, Pyeongchang, Rep. of Korea, Aug. 17-19, 2022.
 : **\[Oral, [Abstract](../assets/pdf/202208_KGU_Abstract_EJCho.pdf)\]** Eunjin Cho, Chae Kyung Sim, **Kilho Baek**, Young-Jun Choi, Sungsoo S. Kim, **_UV reflectance pattern of Copernican and Eratosthenian craters in the lunar highland region_**, The 3<sup>rd</sup> KGU meeting, Alpensia, Pyeongchang, Rep. of Korea, Aug. 17-19, 2022.
 : **\[[Poster](../assets/pdf/202208_IAUGA_Poster_KHBaek.pdf), [Abstract](../assets/pdf/202208_IAUGA_Abstract_KHBaek.pdf)\]** **Kilho Baek**, Sungsoo S. Kim, Chae Kyung Sim, **_Asymmetric space weathering in northern and southern hemispheres on the Moon_**, XXXI<sup>st</sup> IAUGA, BEXCO, Busan, Rep. of Korea, Aug. 2-11, 2022.
