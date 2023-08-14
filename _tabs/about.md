@@ -21,6 +21,7 @@ values:
 - B.S., Department of Astronomy & Space Science, Kyung Hee University, 2011.03-2015.02
 
 ## PUBLICATIONS
+---
 ### Refered
 2019
 : **\[[DOI](https://doi.org/10.1016/j.asr.2016.12.033), [ADS](https://ui.adsabs.harvard.edu/abs/2017AdSpR..59.1629K/abstract)\]** Chae Kyung Sim, Sukbum A. Hong, Sungsoo S. Kim, Minsup Jeong, **Kilho Baek**, Young-Jun Choi, Yuriy G. Shkuratov (2019), **_Multi-band Polarimetry of the Lunar Surface. III. Polarization Phase Curve_**, PASP, 131, 1001, pp. 074401.
@@ -33,50 +34,154 @@ values:
 
 ## Talks & Presentations
 ---
-2022
-: **\[Oral, Abstract)\]** **Kilho Baek**, Sungsoo S. Kim, Chae Kyung Sim, **_Asymmetric Space Weathering on Lunar Crater Walls with an Updated Crater List_**, KSSS fall meeting, Ramada Plaza, Jeju, Rep. of Korea, Oct. 26-28, 2022.
-: **\[Oral, Abstract\]** Minsup Jeong, Sungsoo S. Kim, **Kilho Baek**, Chae Kyung Sim, Young-Jun Choi, Serin Kim, **_Operation and Data Processing Plan of the Wide-Angle Polarimetric Camera Onboarded Danuri_**, KSSS fall meeting, Ramada Plaza, Jeju, Rep. of Korea, Oct. 26-28, 2022.
-: **\[Poster, Abstract\]** Eunjin Cho, Chae Kyung Sim, **Kilho Baek**, Young-Jun Choi, Sungsoo S. Kim, **_Analysis of spectral difference between crater floors and halos_**, KSSS fall meeting, Ramada Plaza, Jeju, Rep. of Korea, Oct. 26-28, 2022.
-: **\[Oral, Abstract\]** **Kilho Baek**, Sungsoo S. Kim, Chae Kyung Sim, **_A Study on Asymmetric Space Weathering with an Updated Lunar Crater list_**, KAS fall meeting, LAHAN Select, Gyeongju, Rep. of Korea, Oct. 12-14, 2022.
-: **\[Poster, Abstract\]** Serin Kim, **Kilho Baek**, Minsup Jeong, Sungsoo S. Kim, Young-Jun Choi, Chae Kyung Sim, **_Data Processing Pipeline for KPLO/PolCam_**, KAS fall meeting, LAHAN Select, Gyeongju, Rep. of Korea, Oct. 12-14, 2022.
-: **\[Oral, [Abstract](../assets/pdf/202208_KGU_Abstract_SSKim.pdf)\]** Sungsoo S. Kim, **Kilho Baek**, Chae Kyung Sim, **_Asymmetric Space Weathering on Lunar Crater Walls_**, The 3<sup>rd</sup> KGU meeting, Alpensia, Pyeongchang, Rep. of Korea, Aug. 17-19, 2022.
-: **\[Oral, [Abstract](../assets/pdf/202208_KGU_Abstract_EJCho.pdf)\]** Eunjin Cho, Chae Kyung Sim, **Kilho Baek**, Young-Jun Choi, Sungsoo S. Kim, **_UV reflectance pattern of Copernican and Eratosthenian craters in the lunar highland region_**, The 3<sup>rd</sup> KGU meeting, Alpensia, Pyeongchang, Rep. of Korea, Aug. 17-19, 2022.
-: **\[[Poster](../assets/pdf/202208_IAUGA_Poster_KHBaek.pdf), [Abstract](../assets/pdf/202208_IAUGA_Abstract_KHBaek.pdf)\]** **Kilho Baek**, Sungsoo S. Kim, Chae Kyung Sim, **_Asymmetric space weathering in northern and southern hemispheres on the Moon_**, XXXI<sup>st</sup> IAUGA, BEXCO, Busan, Rep. of Korea, Aug. 2-11, 2022.
-: **\[[Poster](../assets/pdf/202204_KSSS_Poster_KHBaek.pdf), [Abstract](../assets/pdf/202204_KSSS_Abstract_KHBaek.pdf)\]** **Kilho Baek**, Sungsoo S. Kim, Chae Kyung Sim, **_Opposite trends of optical maturity in northern and southern hemispheres on the lunar surface_**, KSSS spring meeting, Sol Beach, Samcheok, Rep. of Korea, Apr. 27-29, 2022.
+### Be Expected
+AGU Fall Meeting, Moscone Center, San Francisco, USA, Dec. 11-15, 2023.
+: **\[Poster, [Abstract](../assets/pdf/202312_AGUFM_Abstract_KHBaek.pdf)\]** **Kilho Baek**, Minsup Jeong, Young-Jun Choi, Sungsoo S. Kim, Chae Kyung Sim, _Scientific Operations and Data Processing for Wide-Angle Polarimetric Camera (PolCam) onboard Danuri_
+: **\[Oral, [Abstract](../assets/pdf/202312_AGUFM_Abstract_MSJeong.pdf)\]** Minsup Jeong, Young-Jun Choi, Sungsoo S. Kim, **Kilho Baek**, Bongkon Moon, Kyungin Kang, Bonju Gu, Chae Kyung Sim, Dukhang Lee, _Analyses Polarimetric Properties of Reiner Gamma Swirl through Wide-Angle Polarimetric Camera (PolCam) Data onboard Danuri_
+: **\[Oral, [Abstract](../assets/pdf/202312_AGUFM_Abstract_SSKim.pdf)\]** Sungsoo S. Kim, Young-Jun Choi, Kyungin Kang, Minsup Jeong, **Kilho Baek**, Bongkon Moon, Chae Kyung Sim, Dukhang Lee, Bonju Gu, _Current Status of the Polarimetric Survey of the Lunar Regolith with Danuri/PolCam_
+: **\[Poster, [Abstract](../assets/pdf/202312_AGUFM_Abstract_SRKim.pdf)\]** Serin Kim, Shuai Li, Minsup Jeong, **Kilho Baek**, Sungsoo S. Kim, Eunjin Cho, _Polarimetric Measurements of Apollo 14, and 16 Soil Samples_
 
-2021
-: **\[[Oral](../assets/pdf/202110_KSSS_Oral_KHBaek.pptx), [Abstract](../assets/pdf/202110_KSSS_Abstract_KHBaek.pdf)\]** **Kilho Baek**, Sungsoo S. Kim, Chae Kyung Sim, **_Optical properties on the walls of lunar craters larger than 2 km_**, KSSS fall meeting, LAHAN Select, Gyeongju, Rep. of Korea, Oct. 27-29, 2021.
-(☆ Best Oral Presentation Award)
+KSSS Fall Meeting, Venezia Hotel & Resort, Yeosu, Rep. of Korea, Oct. 25-27, 2023.
+: **\[Abstract\]**
 
-2020
-: **\[Poster, [Abstract](../assets/pdf/202010_KMS_Poster_WMJeong.pdf)\]** 정우미, 김해림, **백길호**, 석미경, **_3차원 레이더 합성자료를 활용한 우박 선행신호 탐지기술 개발_**, KMS fall meeting, Online, Oct. 28-29, 2020.
-: **\[Oral, [Abstract](../assets/pdf/202010_KMS_Oral_MKSuk.pdf)\]** 석미경, 김지원, **백길호**, 김유라, **_레이더기반 한국형 통합 공항.공역 기상시스템 개발_**, KMS fall meeting, Online, Oct. 28-29, 2020.
+KAS Fall Meeting, RAMADA PLAZA, Jeju, Rep. of Korea, Oct. 18-20, 2023.
+: **\[Abstract\]**
 
-2019
-: **\[Oral, [Abstract](../assets/pdf/201910_KMS_Oral_YAOh.pdf)\]** 오영아, 석미경, 김해림, **백길호**, 김정희, **_이중편파레이더 품질관리 기술(CLEANER1.0) 개발: 이상전파와 거리접힘 에코 제거_**, KMS fall meeting, HICO, Gyeongju, Rep. of Korea, Oct. 30-Nov. 1, 2019.
-: **\[Oral, [Abstract](../assets/pdf/201904_KAS_Poster_CKSim.pdf)\]** Chae Kyung Sim, Sungsoo S. Kim, Minsup Jeong, Young-Jun Choi, Sukbum A. Hong, **Kilho Baek**, **_Polarimetry of the Moon through the eyes of PolCam: Phase-angle coverage_**, KAS spring meeting, BEXCO, Busan, Rep. of Korea, Apr. 10-12, 2019.
+<details open>
+<summary>2023</summary>
+<div markdown='1'>
 
-2018
-: **\[Poster, [Abstract](../assets/pdf/201810_KMS_Poster_KHBaek.pdf)\]** **백길호**, 김지원, 남경엽, 장근일, 이정환, **_이중편파레이더 대기수상체 정보 산출 체계 개선_**, KMS fall meeting, ICC, Jeju, Rep. of Korea, Oct. 29-31, 2018.
-: **\[Oral, [Abstract](../assets/pdf/201810_KSSS_Oral_CKSim.pdf)\]** Chae Kyung Sim, Sukbum A. Hong, Sungsoo S. Kim, Minsup Jeong, **Kilho Baek**, Young-Jun Choi, **_Determination of polarization phase curve: sparse observation case_**, KSSS fall meeting, Ramada Plaza, Jeju, Rep. of Korea, Oct. 24-26, 2018.
+APRIM, Big Palette, Koriyama, Japan, Aug. 7-11, 2023.
+: **\[[Poster](../assets/pdf/202308_APRIM_Poster_KHBaek.pdf), [Abstract](../assets/pdf/202308_APRIM_Abstract_KHBaek.pdf)\]** **Kilho Baek**, Sungsoo S. Kim, Chae Kyung Sim, _Asymmetric Space Weathering on Lunar Crater Walls with an Updated Crater List_
 
-2017
-: **\[Poster\]** Donghwa Lee, **Gilho Baek**, and Kwang Jo Lee, **_Design of Mid-infrared Silver Halide Photonic Crystal Fibers with Constant Material Dispersion Property_**, Photonics Conference, Oriental Hotel, Jeju, Rep. of Korea, Nov. 8-10, 2017.
-: **\[Poster\]** Sukbum A. Hong, Minsup Jeong, Sungsoo S. Kim, Chae Kyung Sim, Yuriy G. Shkuratov, Il-Hoon Kim, **Kilho Baek**, Young-Jun Choi, **_Multi-Band Polarimetry of the Lunar Surface. II. Polarization Phase Curve_**, DPS meeting, Provo, Utah, Oct. 15-20, 2017.
-: **\[Oral, [Abstract](../assets/pdf/201710_KSSS_Oral_MSJeong.pdf)\]** Sukbum A. Hong, Minsup Jeong, Sungsoo S. Kim, Chae Kyung Sim, Yuriy G. Shkuratov, Il-Hoon Kim, **Kilho Baek**, Young-Jun Choi, **_Multi-band polarimetry of the lunar surface. II. Polarization phase curve_**, KSSS fall meeting, COMMODORE Hotel, Busan, Rep. of Korea, Oct. 25-26, 2017.
-: **\[Oral, [Abstract](../assets/pdf/201710_KSSS_Oral_MSJeong.pdf)\]** Minsup Jeong, Young-Jun Choi, Sungsoo S. Kim, Kyung-In Kang, Chae Kyung Sim, Il-Hoon Kim, **Kilho Baek**, **_Mission analyses for wide-angle Polarimetric Camera; PolCam_**, KSSS fall meeting, COMMODORE Hotel, Busan, Rep. of Korea, Oct. 25-26, 2017.
+</div>
+</details>
 
-2016
-: **\[Poster, [Abstract](../assets/pdf/201612_AGUFM_Abstract_CKSim.pdf)\]** Chae Kyung Sim, Sungsoo S. Kim, Paul G. Lucey, Ian Garrick-Bethell, **Gilho Baek**, Young-Jun Choi, **_Optical Maturity on the Walls of Lunar Craters_**, AGU fall meeting, Moscone Center, San Francisco, California, Dec. 12-16, 2016.
-: **\[Oral, [Abstract](../assets/pdf/201610_KSSS_Oral_YJChoi.pdf)\]** Yonug-Jun Choi, Sungsoo S. Kim, Kyung-In Kang, Minsup Jeong, Chae Kyung Sim, Il-Hoon Kim, Haingja Seo, Ik-Seong Hong, Eunjin Cho, **Kilho Baek**, Jingyu Kim, Bonjoo Koo, Chulwoo Lim, Seyeon Kim, **_Wide-Angle Polarimetric Camera for the Lunar Surface_**, KSSS fall meeting, HAEVICHI Hotel & Resort, Jeju, Oct. 26-28, 2016.
-: **\[[Poster](../assets/pdf/201603_LPSC_Poster_CKSim.pdf), [Abstract](../assets/pdf/201603_LPSC_Abstract_CKSim.pdf)\]** Chae Kyung Sim, Sungsoo S. Kim, Paul G. Lucey, Ian Garrick-Bethell, **Gilho Baek**, **_Optical Maturity of Inner Walls in Lunar Craters_**, LPSC, The Woodlands, Texas, Mar. 21-25, 2016.
+<details>
+<summary>2022</summary>
+<div markdown='1'>
 
-2015
-: **\[[Poster](../assets/pdf/201511_SWAB_Poster_IHKim.pdf), [Abstract](../assets/pdf/201511_SWAB_Abstract_IHKim.pdf)\]** Il-Hoon Kim, Minsup Jeong, Chae Kyung Sim, **Kilho Baek**, Sungsoo S. Kim, **_Multi-Band Polarimetry of Lunar Regolith Materials in Laboratory_**, SWAB, USRA building, Huston, Texas, Nov. 2-4, 2015.
+KSSS Fall Meeting, Ramada Plaza, Jeju, Rep. of Korea, Oct. 26-28, 2022.
+: **\[Oral, Abstract\]** **Kilho Baek**, Sungsoo S. Kim, Chae Kyung Sim, _Asymmetric Space Weathering on Lunar Crater Walls with an Updated Crater List_
+: **\[Oral, Abstract\]** Minsup Jeong, Sungsoo S. Kim, **Kilho Baek**, Chae Kyung Sim, Young-Jun Choi, Serin Kim, _Operation and Data Processing Plan of the Wide-Angle Polarimetric Camera Onboarded Danuri_
+: **\[Poster, Abstract\]** Eunjin Cho, Chae Kyung Sim, **Kilho Baek**, Young-Jun Choi, Sungsoo S. Kim, _Analysis of spectral difference between crater floors and halos_
 
-2014
-: **\[[Poster](../assets/pdf/201411_GraduationEssay_AppliedPhysics_poster_KHBaek.pdf)\]** **Kilho Baek**, Kwang Jo Lee, **_Mid-infrared Astro-photonics for Stellar Spectroscopic Signal Processing: Design of Micro-structured Silver Bromide Optical Fibers for Stellar Nulling Interferometers_**, Graduation Presentation, Applied Physics, Kyung Hee University, Rep. of Korea, Nov. 19, 2014.
+KAS Fall Meeting, LAHAN Select, Gyeongju, Rep. of Korea, Oct. 12-14, 2022.
+: **\[Oral, Abstract\]** **Kilho Baek**, Sungsoo S. Kim, Chae Kyung Sim, _A Study on Asymmetric Space Weathering with an Updated Lunar Crater list_
+: **\[Poster, Abstract\]** Serin Kim, **Kilho Baek**, Minsup Jeong, Sungsoo S. Kim, Young-Jun Choi, Chae Kyung Sim, _Data Processing Pipeline for KPLO/PolCam_
 
+KGU Meeting, Alpensia, Pyeongchang, Rep. of Korea, Aug. 17-19, 2022.
+: **\[Oral, [Abstract](../assets/pdf/202208_KGU_Abstract_SSKim.pdf)\]** Sungsoo S. Kim, **Kilho Baek**, Chae Kyung Sim, _Asymmetric Space Weathering on Lunar Crater Walls_
+: **\[Oral, [Abstract](../assets/pdf/202208_KGU_Abstract_EJCho.pdf)\]** Eunjin Cho, Chae Kyung Sim, **Kilho Baek**, Young-Jun Choi, Sungsoo S. Kim, _UV reflectance pattern of Copernican and Eratosthenian craters in the lunar highland region_
+
+IAU General Assembly, BEXCO, Busan, Rep. of Korea, Aug. 2-11, 2022.
+: **\[[Poster](../assets/pdf/202208_IAUGA_Poster_KHBaek.pdf), [Abstract](../assets/pdf/202208_IAUGA_Abstract_KHBaek.pdf)\]** **Kilho Baek**, Sungsoo S. Kim, Chae Kyung Sim, _Asymmetric space weathering in northern and southern hemispheres on the Moon_
+
+KSSS Spring Meeting, Sol Beach, Samcheok, Rep. of Korea, Apr. 27-29, 2022.
+: **\[[Poster](../assets/pdf/202204_KSSS_Poster_KHBaek.pdf), [Abstract](../assets/pdf/202204_KSSS_Abstract_KHBaek.pdf)\]** **Kilho Baek**, Sungsoo S. Kim, Chae Kyung Sim, _Opposite trends of optical maturity in northern and southern hemispheres on the lunar surface_
+
+</div>
+</details>
+
+<details>
+<summary>2021</summary>
+<div markdown='1'>
+
+KSSS Fall Meeting, LAHAN Select, Gyeongju, Rep. of Korea, Oct. 27-29, 2021.
+: **\[[Oral](../assets/pdf/202110_KSSS_Oral_KHBaek.pptx), [Abstract](../assets/pdf/202110_KSSS_Abstract_KHBaek.pdf)\]** **Kilho Baek**, Sungsoo S. Kim, Chae Kyung Sim, _Optical properties on the walls of lunar craters larger than 2 km_ (☆ Best Oral Presentation Award)
+
+</div>
+</details>
+
+<details>
+<summary>2020</summary>
+<div markdown='1'>
+
+KMS Fall Meeting, Online, Oct. 28-29, 2020.
+: **\[Poster, [Abstract](../assets/pdf/202010_KMS_Poster_WMJeong.pdf)\]** 정우미, 김해림, **백길호**, 석미경, _3차원 레이더 합성자료를 활용한 우박 선행신호 탐지기술 개발_
+: **\[Oral, [Abstract](../assets/pdf/202010_KMS_Oral_MKSuk.pdf)\]** 석미경, 김지원, **백길호**, 김유라, _레이더기반 한국형 통합 공항.공역 기상시스템 개발_
+
+</div>
+</details>
+
+<details>
+<summary>2019</summary>
+<div markdown='1'>
+
+KMS Fall Meeting, HICO, Gyeongju, Rep. of Korea, Oct. 30-Nov. 1, 2019.
+: **\[Oral, [Abstract](../assets/pdf/201910_KMS_Oral_YAOh.pdf)\]** 오영아, 석미경, 김해림, **백길호**, 김정희, _이중편파레이더 품질관리 기술(CLEANER1.0) 개발: 이상전파와 거리접힘 에코 제거_
+
+KAS Spring Meeting, BEXCO, Busan, Rep. of Korea, Apr. 10-12, 2019.
+: **\[Oral, [Abstract](../assets/pdf/201904_KAS_Poster_CKSim.pdf)\]** Chae Kyung Sim, Sungsoo S. Kim, Minsup Jeong, Young-Jun Choi, Sukbum A. Hong, **Kilho Baek**, _Polarimetry of the Moon through the eyes of PolCam: Phase-angle coverage_
+
+</div>
+</details>
+
+<details>
+<summary>2018</summary>
+<div markdown='1'>
+
+KMS Fall Meeting, ICC, Jeju, Rep. of Korea, Oct. 29-31, 2018.
+: **\[Poster, [Abstract](../assets/pdf/201810_KMS_Poster_KHBaek.pdf)\]** **백길호**, 김지원, 남경엽, 장근일, 이정환, _이중편파레이더 대기수상체 정보 산출 체계 개선_
+
+KSSS Fall Meeting, Ramada Plaza, Jeju, Rep. of Korea, Oct. 24-26, 2018.
+: **\[Oral, [Abstract](../assets/pdf/201810_KSSS_Oral_CKSim.pdf)\]** Chae Kyung Sim, Sukbum A. Hong, Sungsoo S. Kim, Minsup Jeong, **Kilho Baek**, Young-Jun Choi, _Determination of polarization phase curve: sparse observation case_
+
+</div>
+</details>
+
+<details>
+<summary>2017</summary>
+<div markdown='1'>
+
+Photonics Conference, Oriental Hotel, Jeju, Rep. of Korea, Nov. 8-10, 2017.
+: **\[Poster\]** Donghwa Lee, **Gilho Baek**, and Kwang Jo Lee, _Design of Mid-infrared Silver Halide Photonic Crystal Fibers with Constant Material Dispersion Property_
+
+DPS Meeting, Provo, Utah, Oct. 15-20, 2017.
+: **\[Poster\]** Sukbum A. Hong, Minsup Jeong, Sungsoo S. Kim, Chae Kyung Sim, Yuriy G. Shkuratov, Il-Hoon Kim, **Kilho Baek**, Young-Jun Choi, _Multi-Band Polarimetry of the Lunar Surface. II. Polarization Phase Curve_
+
+KSSS Fall Meeting, COMMODORE Hotel, Busan, Rep. of Korea, Oct. 25-26, 2017.
+: **\[Oral, [Abstract](../assets/pdf/201710_KSSS_Oral_MSJeong.pdf)\]** Sukbum A. Hong, Minsup Jeong, Sungsoo S. Kim, Chae Kyung Sim, Yuriy G. Shkuratov, Il-Hoon Kim, **Kilho Baek**, Young-Jun Choi, _Multi-band polarimetry of the lunar surface. II. Polarization phase curve_
+: **\[Oral, [Abstract](../assets/pdf/201710_KSSS_Oral_MSJeong.pdf)\]** Minsup Jeong, Young-Jun Choi, Sungsoo S. Kim, Kyung-In Kang, Chae Kyung Sim, Il-Hoon Kim, **Kilho Baek**, _Mission analyses for wide-angle Polarimetric Camera; PolCam_
+
+</div>
+</details>
+
+<details>
+<summary>2016</summary>
+<div markdown='1'>
+
+AGU Fall Meeting, Moscone Center, San Francisco, California, USA, Dec. 12-16, 2016.
+: **\[Poster, [Abstract](../assets/pdf/201612_AGUFM_Abstract_CKSim.pdf)\]** Chae Kyung Sim, Sungsoo S. Kim, Paul G. Lucey, Ian Garrick-Bethell, **Gilho Baek**, Young-Jun Choi, _Optical Maturity on the Walls of Lunar Craters_
+
+KSSS Fall Meeting, HAEVICHI Hotel & Resort, Jeju, Oct. 26-28, 2016.
+: **\[Oral, [Abstract](../assets/pdf/201610_KSSS_Oral_YJChoi.pdf)\]** Yonug-Jun Choi, Sungsoo S. Kim, Kyung-In Kang, Minsup Jeong, Chae Kyung Sim, Il-Hoon Kim, Haingja Seo, Ik-Seong Hong, Eunjin Cho, **Kilho Baek**, Jingyu Kim, Bonjoo Koo, Chulwoo Lim, Seyeon Kim, _Wide-Angle Polarimetric Camera for the Lunar Surface_
+
+LPSC, The Woodlands, Texas, USA, Mar. 21-25, 2016.
+: **\[[Poster](../assets/pdf/201603_LPSC_Poster_CKSim.pdf), [Abstract](../assets/pdf/201603_LPSC_Abstract_CKSim.pdf)\]** Chae Kyung Sim, Sungsoo S. Kim, Paul G. Lucey, Ian Garrick-Bethell, **Gilho Baek**, _Optical Maturity of Inner Walls in Lunar Craters_
+
+</div>
+</details>
+
+<details>
+<summary>2015</summary>
+<div markdown='1'>
+
+SWAB, USRA building, Huston, Texas, USA, Nov. 2-4, 2015.
+: **\[[Poster](../assets/pdf/201511_SWAB_Poster_IHKim.pdf), [Abstract](../assets/pdf/201511_SWAB_Abstract_IHKim.pdf)\]** Il-Hoon Kim, Minsup Jeong, Chae Kyung Sim, **Kilho Baek**, Sungsoo S. Kim,_Multi-Band Polarimetry of Lunar Regolith Materials in Laboratory_
+
+</div>
+</details>
+
+<details>
+<summary>2014</summary>
+<div markdown='1'>
+
+Graduation Presentation, Applied Physics, Kyung Hee University, Rep. of Korea, Nov. 19, 2014.
+: **\[[Poster](../assets/pdf/201411_GraduationEssay_AppliedPhysics_poster_KHBaek.pdf)\]** **Kilho Baek**, Kwang Jo Lee, _Mid-infrared Astro-photonics for Stellar Spectroscopic Signal Processing: Design of Micro-structured Silver Bromide Optical Fibers for Stellar Nulling Interferometers_
+
+</div>
+</details>
 
 <!-- 
 > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
