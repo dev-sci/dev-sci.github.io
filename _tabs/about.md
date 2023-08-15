@@ -38,7 +38,7 @@ values:
 AGU Fall Meeting, Moscone Center, San Francisco, USA, Dec. 11-15, 2023.
 : **\[Poster, [Abstract](../assets/pdf/202312_AGUFM_Abstract_KHBaek.pdf)\]** **Kilho Baek**, Minsup Jeong, Young-Jun Choi, Sungsoo S. Kim, Chae Kyung Sim, _Scientific Operations and Data Processing for Wide-Angle Polarimetric Camera (PolCam) onboard Danuri_
 : **\[Oral, [Abstract](../assets/pdf/202312_AGUFM_Abstract_MSJeong.pdf)\]** Minsup Jeong, Young-Jun Choi, Sungsoo S. Kim, **Kilho Baek**, Bongkon Moon, Kyungin Kang, Bonju Gu, Chae Kyung Sim, Dukhang Lee, _Analyses Polarimetric Properties of Reiner Gamma Swirl through Wide-Angle Polarimetric Camera (PolCam) Data onboard Danuri_
-: **\[Oral, [Abstract](../assets/pdf/202312_AGUFM_Abstract_SSKim.pdf)\]** Sungsoo S. Kim, Young-Jun Choi, Kyungin Kang, Minsup Jeong, **Kilho Baek**, Bongkon Moon, Chae Kyung Sim, Dukhang Lee, Bonju Gu, _Current Status of the Polarimetric Survey of the Lunar Regolith with Danuri/PolCam_
+: **\[Oral, Abstract\]** Sungsoo S. Kim, Young-Jun Choi, Kyungin Kang, Minsup Jeong, **Kilho Baek**, Bongkon Moon, Chae Kyung Sim, Dukhang Lee, Bonju Gu, _Current Status of the Polarimetric Survey of the Lunar Regolith with Danuri/PolCam_
 : **\[Poster, [Abstract](../assets/pdf/202312_AGUFM_Abstract_SRKim.pdf)\]** Serin Kim, Shuai Li, Minsup Jeong, **Kilho Baek**, Sungsoo S. Kim, Eunjin Cho, _Polarimetric Measurements of Apollo 14, and 16 Soil Samples_
 
 KSSS Fall Meeting, Venezia Hotel & Resort, Yeosu, Rep. of Korea, Oct. 25-27, 2023.
