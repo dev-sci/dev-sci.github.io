@@ -11,7 +11,6 @@ values:
 <!-- [![NASA ADS](https://img.shields.io/badge/NASA_ADS-2D74D8?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTUyMyIgaGVpZ2h0PSIxMjU5IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxkZWZzPjxsaW5lYXJHcmFkaWVudCB4MT0iMTAwJSIgeTE9IjgwLjUlIiB4Mj0iMCUiIHkyPSIyMSUiIGlkPSJhIj48c3RvcCBzdG9wLWNvbG9yPSIjNDA5RkZGIiBvZmZzZXQ9IjAlIi8+PHN0b3Agc3RvcC1jb2xvcj0iIzIxNTdDRiIgb2Zmc2V0PSIxMDAlIi8+PC9saW5lYXJHcmFkaWVudD48bGluZWFyR3JhZGllbnQgeDE9IjEwMCUiIHkxPSI4MC41JSIgeDI9IjAlIiB5Mj0iMjElIiBpZD0iYiI+PHN0b3Agc3RvcC1jb2xvcj0iIzAwMUNGRiIgc3RvcC1vcGFjaXR5PSIwIiBvZmZzZXQ9IjAlIi8+PHN0b3Agc3RvcC1jb2xvcj0iIzVBRUFGRiIgc3RvcC1vcGFjaXR5PSIuMiIgb2Zmc2V0PSIxMDAlIi8+PC9saW5lYXJHcmFkaWVudD48cmFkaWFsR3JhZGllbnQgY3g9IjMzLjIlIiBjeT0iMjMuNCUiIGZ4PSIzMy4yJSIgZnk9IjIzLjQlIiByPSIxMDAlIiBpZD0iYyI+PHN0b3Agc3RvcC1jb2xvcj0iI0ZGRiIgb2Zmc2V0PSIwJSIvPjxzdG9wIHN0b3AtY29sb3I9IiNGRkYiIG9mZnNldD0iMTAwJSIvPjwvcmFkaWFsR3JhZGllbnQ+PC9kZWZzPjxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKC0yOTAgLTIyNSkiIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0iZXZlbm9kZCI+PGcgdHJhbnNmb3JtPSJyb3RhdGUoNTggNjk4IDEyNTkpIj48Y2lyY2xlIGZpbGw9IiMzNDM0MzQiIGN4PSI2MTIiIGN5PSI2MTIiIHI9IjYxMiIvPjxjaXJjbGUgZmlsbD0iIzM0MzQzNCIgY3g9IjYxMiIgY3k9IjYxMiIgcj0iNjEyIi8+PHBhdGggZD0iTTk3IDUwMmE1MjYgNTI2IDAgMSAxIDY4OSA2MDd2LTMwYTQ5OCA0OTggMCAxIDAtNjYyLTU2OGMtOC00LTE3LTctMjctOVptNTUgMzY1YTUyOCA1MjggMCAwIDAgMjg0IDI0MXYtMzBhNTAwIDUwMCAwIDAgMS0yNjEtMjI3Yy03IDYtMTUgMTItMjMgMTZaIiBmaWxsPSIjQTVBNUE1Ii8+PC9nPjxnIHRyYW5zZm9ybT0icm90YXRlKDU4IDY2OCAxMjY2KSI+PGNpcmNsZSBmaWxsPSIjOUI5QjlCIiB0cmFuc2Zvcm09InJvdGF0ZSgtNDkgNTkyIDU5MikiIGN4PSI1OTIiIGN5PSI1OTIiIHI9IjQxOSIvPjxjaXJjbGUgZmlsbD0idXJsKCNhKSIgdHJhbnNmb3JtPSJyb3RhdGUoLTQ5IDU5NyA1OTUpIiBjeD0iNTk3IiBjeT0iNTk1IiByPSIzMDAiLz48Y2lyY2xlIGZpbGw9InVybCgjYSkiIHRyYW5zZm9ybT0icm90YXRlKC00OSA1OTcgNTk1KSIgY3g9IjU5NyIgY3k9IjU5NSIgcj0iMzAwIi8+PGNpcmNsZSBmaWxsPSJ1cmwoI2IpIiB0cmFuc2Zvcm09InJvdGF0ZSgtNDkgNTk3IDU5NSkiIGN4PSI1OTciIGN5PSI1OTUiIHI9IjI2MCIvPjxwYXRoIGQ9Ik00MjEgMTAyN2gzNTB2NDMzYTE3NSAxNzUgMCAxIDEtMzUwIDB2LTQzM1oiIGZpbGw9IiMzNDM0MzQiLz48ZyBmaWxsPSIjOUI5QjlCIj48cGF0aCBkPSJNNjIxIDEwMDN2MTM0aC03MXYtMTM0eiIvPjxwYXRoIGQ9Im01MTUgMTI5MC0yLTE0OHYxNWMtMS00MCAzMi03NCA3Mi03NSA0MS0xIDc1IDMyIDc2IDczbC0xLTU4IDIgMTQ4IDQgMjI5YzEgNDEtMzEgNzQtNzIgNzVzLTc1LTMyLTc2LTczbC0zLTE4NloiLz48L2c+PHBhdGggZD0iTTU3NyAxNTQ3YTc0IDc0IDAgMCAwIDg5LTcydjE2LTMzNWE3NCA3NCAwIDAgMC05MS03MmMzMyA3IDU5IDM3IDU5IDcydjMzNS0xNmMwIDM1LTI1IDY1LTU3IDcyWiIgZmlsbD0iIzg3ODc4NyIvPjxwYXRoIGQ9Ik01ODggMTAwN2gzNXY4NmwtMzUtMTB2LTc2WiIgZmlsbD0iIzg3ODc4NyIvPjwvZz48Y2lyY2xlIGZpbGw9IiMzNDM0MzQiIGN4PSI4MjQuNSIgY3k9IjQzMi41IiByPSIyMDcuNSIvPjxwYXRoIGQ9Ik04MjkgNTcwYTE0MCAxNDAgMCAxIDAgMC0yODAgMTQwIDE0MCAwIDAgMCAwIDI4MFoiIGZpbGw9InVybCgjYykiLz48dGV4dCBmb250LWZhbWlseT0iSGVsdmV0aWNhIiBmb250LXNpemU9IjcwMCIgZm9udC13ZWlnaHQ9ImJvbGQiIGZpbGw9IiNGRkYiPjx0c3BhbiB4PSIxMDA3IiB5PSIxMDMwIj5hPC90c3Bhbj48L3RleHQ+PHBhdGggZD0iTTEyMTggODc3YzkzLTczIDE5NS0yMzggMTk1LTIzOHM5MCAxMDggODggMjE4Yy0zIDEwOS03NSAyMDMtMTMyIDI0Mi01NyAzOC0xNjEgNjUtMjM4IDQ2LTExOC0yOS0xODMtMTMwLTE4My0xMzBzMTc3LTY1IDI3MC0xMzhaIiBmaWxsLW9wYWNpdHk9Ii4xIiBmaWxsPSIjMDAwIi8+PC9nPjwvc3ZnPg==&logoColor=white&link=https://ui.adsabs.harvard.edu/search/q=%3Dauthor%3A%22Baek%2C%20Kilho%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)](https://ui.adsabs.harvard.edu/search/q=%3Dauthor%3A%22Baek%2C%20Kilho%22&sort=date%20desc%2C%20bibcode%20desc&p_=0){: target="_blank"} -->
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://dev-sci.github.io/)](https://github.com/dev-sci){: target="_blank"}
 
-
 ### Employment
 - Assistant Editor (Temporary), [JKAS (Journal of the Korean Astronomical Society)](http://jkas.kas.org), [Korean Astronomical Society](http://en.kas.org/), 2022.01-present
 - Researcher, Radar Analysis Division, [Weather Radar Center](https://radar.kma.go.kr/eng/main.do), [Korea Meteorological Administration](https://www.kma.go.kr/eng/index.jsp), 2018.02-2021.03
@@ -19,6 +18,28 @@ values:
 ### Education
 - M.S./Ph.D., School of Space Research, Kyung Hee University, 2015.03-present
 - B.S., Department of Astronomy & Space Science, Kyung Hee University, 2011.03-2015.02
+
+
+## !!! The Upcoming Meetings !!!
+
+AGU Fall Meeting, Moscone Center, San Francisco, USA, Dec. 11-15, 2023.
+: **\[[Poster](../assets/pdf/202312_AGUFM_Poster_KHBaek.pdf), [Abstract](../assets/pdf/202312_AGUFM_Abstract_KHBaek.pdf)\]** **Kilho Baek**, Minsup Jeong, Young-Jun Choi, Sungsoo S. Kim, Chae Kyung Sim, _Scientific Operations and Data Processing for Wide-Angle Polarimetric Camera (PolCam) onboard Danuri_
+: **\[Oral, Abstract\]** Sungsoo S. Kim, Young-Jun Choi, Kyungin Kang, Minsup Jeong, **Kilho Baek**, Bongkon Moon, Chae Kyung Sim, Dukhang Lee, Bonju Gu, _Current Status of the Polarimetric Survey of the Lunar Regolith with Danuri/PolCam_
+: **\[Poster, [Abstract](../assets/pdf/202312_AGUFM_Abstract_MSJeong.pdf)\]** Minsup Jeong, Young-Jun Choi, Sungsoo S. Kim, **Kilho Baek**, Bongkon Moon, Kyungin Kang, Bonju Gu, Chae Kyung Sim, Dukhang Lee, _Analyses Polarimetric Properties of Reiner Gamma Swirl through Wide-Angle Polarimetric Camera (PolCam) Data onboard Danuri_
+: **\[Poster, [Abstract](../assets/pdf/202312_AGUFM_Abstract_SRKim.pdf)\]** Serin Kim, Shuai Li, Minsup Jeong, **Kilho Baek**, Sungsoo S. Kim, Eunjin Cho, _Polarimetric Measurements of Apollo 14, and 16 Soil Samples_
+
+LPSC, The Woodlands, Texas, USA, Mar. 11-15, 2024.
+: **\[Abstract\]**
+
+AOGS Annual Meeting, Alpensia Resort & Yongpyong Resort, Pyeongchang, Gangwon-do, Rep. of Korea, Jun. 23-28, 2024.
+: **\[Abstract\]**
+
+COSPAR Scientific Assembly, BEXCO, Busan, Rep. of Korea, Jul. 13-21, 2024.
+: **\[Abstract\]**
+
+IAU General Assembly, International Convention Centre, Cape Town, South Africa, Aug. 6-15, 2024.
+: **\[Abstract\]**
+
 
 ## PUBLICATIONS
 ---
@@ -34,22 +55,16 @@ values:
 
 ## Talks & Presentations
 ---
-### Be Expected
-AGU Fall Meeting, Moscone Center, San Francisco, USA, Dec. 11-15, 2023.
-: **\[Poster, [Abstract](../assets/pdf/202312_AGUFM_Abstract_KHBaek.pdf)\]** **Kilho Baek**, Minsup Jeong, Young-Jun Choi, Sungsoo S. Kim, Chae Kyung Sim, _Scientific Operations and Data Processing for Wide-Angle Polarimetric Camera (PolCam) onboard Danuri_
-: **\[Oral, [Abstract](../assets/pdf/202312_AGUFM_Abstract_MSJeong.pdf)\]** Minsup Jeong, Young-Jun Choi, Sungsoo S. Kim, **Kilho Baek**, Bongkon Moon, Kyungin Kang, Bonju Gu, Chae Kyung Sim, Dukhang Lee, _Analyses Polarimetric Properties of Reiner Gamma Swirl through Wide-Angle Polarimetric Camera (PolCam) Data onboard Danuri_
-: **\[Oral, Abstract\]** Sungsoo S. Kim, Young-Jun Choi, Kyungin Kang, Minsup Jeong, **Kilho Baek**, Bongkon Moon, Chae Kyung Sim, Dukhang Lee, Bonju Gu, _Current Status of the Polarimetric Survey of the Lunar Regolith with Danuri/PolCam_
-: **\[Poster, [Abstract](../assets/pdf/202312_AGUFM_Abstract_SRKim.pdf)\]** Serin Kim, Shuai Li, Minsup Jeong, **Kilho Baek**, Sungsoo S. Kim, Eunjin Cho, _Polarimetric Measurements of Apollo 14, and 16 Soil Samples_
-
-KSSS Fall Meeting, Venezia Hotel & Resort, Yeosu, Rep. of Korea, Oct. 25-27, 2023.
-: **\[Abstract\]**
-
-KAS Fall Meeting, RAMADA PLAZA, Jeju, Rep. of Korea, Oct. 18-20, 2023.
-: **\[Abstract\]**
-
 <details open>
 <summary>2023</summary>
 <div markdown='1'>
+
+KSSS Fall Meeting, Venezia Hotel & Resort, Yeosu, Rep. of Korea, Oct. 25-27, 2023.
+: **\[Poster, [Abstract](../assets/pdf/202310_KSSS_Abstract_SRKim.pdf)\]** Serin Kim, Shuai Li, Minsup Jeong, Young-Jun Choi, **Kilho Baek**, Sungsoo S. Kim, Eunjin Cho, _Polarimetric Measurements of Apollo Soil Samples by Particle Size_
+
+KAS Fall Meeting, RAMADA PLAZA, Jeju, Rep. of Korea, Oct. 18-20, 2023.
+: **\[Poster, [Abstract](../assets/pdf/202310_KAS_Abstract_SRKim.pdf)\]**
+Serin Kim, Shuai Li, Minsup Jeong, Young-Jun Choi, **Kilho Baek**, Sungsoo S. Kim, Eunjin Cho, _Polarimetric Experiments of Soil Samples from the Moon_
 
 APRIM, Big Palette, Koriyama, Japan, Aug. 7-11, 2023.
 : **\[[Poster](../assets/pdf/202308_APRIM_Poster_KHBaek.pdf), [Abstract](../assets/pdf/202308_APRIM_Abstract_KHBaek.pdf)\]** **Kilho Baek**, Sungsoo S. Kim, Chae Kyung Sim, _Asymmetric Space Weathering on Lunar Crater Walls with an Updated Crater List_
