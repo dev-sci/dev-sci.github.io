@@ -20,7 +20,7 @@ values:
 - B.S., Department of Astronomy & Space Science, Kyung Hee University, 2011.03-2015.02
 
 
-## !!! The Upcoming Meetings !!!
+## !!! Upcoming Meetings !!!
 
 AGU Fall Meeting, Moscone Center, San Francisco, USA, Dec. 11-15, 2023.
 : **\[[Poster](../assets/pdf/202312_AGUFM_Poster_KHBaek.pdf), [Abstract](../assets/pdf/202312_AGUFM_Abstract_KHBaek.pdf)\]** **Kilho Baek**, Minsup Jeong, Young-Jun Choi, Sungsoo S. Kim, Chae Kyung Sim, _Scientific Operations and Data Processing for Wide-Angle Polarimetric Camera (PolCam) onboard Danuri_
