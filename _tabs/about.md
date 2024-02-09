@@ -39,9 +39,6 @@ COSPAR Scientific Assembly, BEXCO, Busan, Rep. of Korea, Jul. 13-21, 2024.
 : **\[Abstract\]** **Kilho Baek**, Sungsoo S. Kim, Chae Kyung Sim, _Maturation by Solar-Wind Particles and Refreshment by Meteorite Impacts on the Lunar Crater Walls_
 : **\[Abstract\]** Minsup Jeong, Young-Jun Choi, Sungsoo S. Kim, **Kilho Baek**, Bongkon Moon, Dukhang Lee, Chae Kyung Sim, Kyung-In Kang, Bonju Gu, _Polarimetric Analysis of Reiner Gamma Swirl Using Danuri's PolCam Data_
 : **\[Abstract\]** Serin Kim, Shuai Li, Minsup Jeong, **Kilho Baek**, Sungsoo S. Kim, Eunjin Cho, Young-Jun Choi, _Polarimetric Experiments of Lunar Soil Samples by Particle Size_
-<!-- : **\[[Abstract](../assets/pdf/202407_COSPAR_Abstract_KHBaek.pdf)\]** **Kilho Baek**, Sungsoo S. Kim, Chae Kyung Sim, _Maturation by Solar-Wind Particles and Refreshment by Meteorite Impacts on the Lunar Crater Walls_
-: **\[[Abstract](../assets/pdf/202407_COSPAR_Abstract_MSJeong.pdf)\]** Minsup Jeong, Young-Jun Choi, Sungsoo S. Kim, **Kilho Baek**, Bongkon Moon, Dukhang Lee, Chae Kyung Sim, Kyung-In Kang, Bonju Gu, _Polarimetric Analysis of Reiner Gamma Swirl Using Danuri's PolCam Data_
-: **\[[Abstract](../assets/pdf/202407_COSPAR_Abstract_SRKim.pdf)\]** Serin Kim, Shuai Li, Minsup Jeong, **Kilho Baek**, Sungsoo S. Kim, Eunjin Cho, Young-Jun Choi, _Polarimetric Experiments of Lunar Soil Samples by Particle Size_ -->
 
 EPSC, Henry Ford Building, Freie Universität Berlin, Germany, Sep. 8–13, 2024.
 : **\[Abstract\]**
