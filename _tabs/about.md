@@ -16,29 +16,37 @@ values:
 - Researcher, Radar Analysis Division, [Weather Radar Center](https://radar.kma.go.kr/eng/main.do), [Korea Meteorological Administration](https://www.kma.go.kr/eng/index.jsp), 2018.02-2021.03
 
 ### Education
-- M.S./Ph.D., School of Space Research, Kyung Hee University, 2015.03-present
+- M.S./Ph.D., School of Space Research, Kyung Hee University, 2021.03-present
+- M.S./Ph.D., School of Space Research, Kyung Hee University, 2015.03-2018.02 (Coursework)
 - B.S., Department of Astronomy & Space Science, Kyung Hee University, 2011.03-2015.02
 
 
 ## !!! Upcoming Meetings !!!
 
-AGU Fall Meeting, Moscone Center, San Francisco, USA, Dec. 11-15, 2023.
-: **\[[Poster](../assets/pdf/202312_AGUFM_Poster_KHBaek.pdf), [Abstract](../assets/pdf/202312_AGUFM_Abstract_KHBaek.pdf)\]** **Kilho Baek**, Minsup Jeong, Young-Jun Choi, Sungsoo S. Kim, Chae Kyung Sim, _Scientific Operations and Data Processing for Wide-Angle Polarimetric Camera (PolCam) onboard Danuri_
-: **\[Oral, Abstract\]** Sungsoo S. Kim, Young-Jun Choi, Kyungin Kang, Minsup Jeong, **Kilho Baek**, Bongkon Moon, Chae Kyung Sim, Dukhang Lee, Bonju Gu, _Current Status of the Polarimetric Survey of the Lunar Regolith with Danuri/PolCam_
-: **\[Poster, [Abstract](../assets/pdf/202312_AGUFM_Abstract_MSJeong.pdf)\]** Minsup Jeong, Young-Jun Choi, Sungsoo S. Kim, **Kilho Baek**, Bongkon Moon, Kyungin Kang, Bonju Gu, Chae Kyung Sim, Dukhang Lee, _Analyses Polarimetric Properties of Reiner Gamma Swirl through Wide-Angle Polarimetric Camera (PolCam) Data onboard Danuri_
-: **\[Poster, [Abstract](../assets/pdf/202312_AGUFM_Abstract_SRKim.pdf)\]** Serin Kim, Shuai Li, Minsup Jeong, **Kilho Baek**, Sungsoo S. Kim, Eunjin Cho, _Polarimetric Measurements of Apollo 14, and 16 Soil Samples_
+LPSC, The Woodlands Waterway Marriott Hotel & Convention Center, Houston, USA, Mar. 11-15, 2024.
+: **\[[Oral], [Abstract](../assets/pdf/202403_LPSC_Abstract_KHBaek.pdf)\]** **Kilho Baek**, Sungsoo S. Kim, Chae Kyung Sim, _Asymmetric Space Weathering and Impact Gardening on Lunar Crater Walls_
 
-LPSC, The Woodlands, Texas, USA, Mar. 11-15, 2024.
-: **\[Abstract\]**
+KAS Spring Meeting, Venezia Hotel & Resort, Yeosu, Rep. of Korea, Apr. 17-19, 2024.
+: **\[Abstract\]** 
 
-AOGS Annual Meeting, Alpensia Resort & Yongpyong Resort, Pyeongchang, Gangwon-do, Rep. of Korea, Jun. 23-28, 2024.
-: **\[Abstract\]**
+KSSS Spring Meeting, LAHAN Select, Gyeongju, Rep. of Korea, Apr. 24-26, 2024.
+: **\[Abstract\]** 
+
+AOGS Annual Meeting, Alpensia Resort & Yongpyong Resort, Pyeongchang, Rep. of Korea, Jun. 23-28, 2024.
+: **\[[Abstract](../assets/pdf/202406_AOGS_Abstract_KHBaek.pdf)\]** **Kilho Baek**, Sungsoo S. Kim, Chae Kyung Sim, _Latitudinal and Longitudinal Asymmetries Caused by Space Weathering and Impact Gardening_
 
 COSPAR Scientific Assembly, BEXCO, Busan, Rep. of Korea, Jul. 13-21, 2024.
+: **\[Abstract\]** **Kilho Baek**, Sungsoo S. Kim, Chae Kyung Sim, _Maturation by Solar-Wind Particles and Refreshment by Meteorite Impacts on the Lunar Crater Walls_
+: **\[Abstract\]** Minsup Jeong, Young-Jun Choi, Sungsoo S. Kim, **Kilho Baek**, Bongkon Moon, Dukhang Lee, Chae Kyung Sim, Kyung-In Kang, Bonju Gu, _Polarimetric Analysis of Reiner Gamma Swirl Using Danuri's PolCam Data_
+: **\[Abstract\]** Serin Kim, Shuai Li, Minsup Jeong, **Kilho Baek**, Sungsoo S. Kim, Eunjin Cho, Young-Jun Choi, _Polarimetric Experiments of Lunar Soil Samples by Particle Size_
+<!-- : **\[[Abstract](../assets/pdf/202407_COSPAR_Abstract_KHBaek.pdf)\]** **Kilho Baek**, Sungsoo S. Kim, Chae Kyung Sim, _Maturation by Solar-Wind Particles and Refreshment by Meteorite Impacts on the Lunar Crater Walls_
+: **\[[Abstract](../assets/pdf/202407_COSPAR_Abstract_MSJeong.pdf)\]** Minsup Jeong, Young-Jun Choi, Sungsoo S. Kim, **Kilho Baek**, Bongkon Moon, Dukhang Lee, Chae Kyung Sim, Kyung-In Kang, Bonju Gu, _Polarimetric Analysis of Reiner Gamma Swirl Using Danuri's PolCam Data_
+: **\[[Abstract](../assets/pdf/202407_COSPAR_Abstract_SRKim.pdf)\]** Serin Kim, Shuai Li, Minsup Jeong, **Kilho Baek**, Sungsoo S. Kim, Eunjin Cho, Young-Jun Choi, _Polarimetric Experiments of Lunar Soil Samples by Particle Size_ -->
+
+EPSC, Henry Ford Building, Freie Universität Berlin, Germany, Sep. 8–13, 2024.
 : **\[Abstract\]**
 
-IAU General Assembly, International Convention Centre, Cape Town, South Africa, Aug. 6-15, 2024.
-: **\[Abstract\]**
+AGU Fall Meeting, Washington DC, USA, Dec. 9-13, 2024.
 
 
 ## PUBLICATIONS
@@ -56,8 +64,20 @@ IAU General Assembly, International Convention Centre, Cape Town, South Africa, 
 ## Talks & Presentations
 ---
 <details open>
+<summary>2024</summary>
+<div markdown='1'>
+</div>
+</details>
+
+<details open>
 <summary>2023</summary>
 <div markdown='1'>
+
+AGU Fall Meeting, Moscone Center, San Francisco, USA, Dec. 11-15, 2023.
+: **\[[Poster](../assets/pdf/202312_AGUFM_Poster_KHBaek.pdf), [Abstract](../assets/pdf/202312_AGUFM_Abstract_KHBaek.pdf)\]** **Kilho Baek**, Minsup Jeong, Young-Jun Choi, Sungsoo S. Kim, Chae Kyung Sim, _Scientific Operations and Data Processing for Wide-Angle Polarimetric Camera (PolCam) onboard Danuri_
+: **\[Oral, Abstract\]** Sungsoo S. Kim, Young-Jun Choi, Kyungin Kang, Minsup Jeong, **Kilho Baek**, Bongkon Moon, Chae Kyung Sim, Dukhang Lee, Bonju Gu, _Current Status of the Polarimetric Survey of the Lunar Regolith with Danuri/PolCam_
+: **\[Poster, [Abstract](../assets/pdf/202312_AGUFM_Abstract_MSJeong.pdf)\]** Minsup Jeong, Young-Jun Choi, Sungsoo S. Kim, **Kilho Baek**, Bongkon Moon, Kyungin Kang, Bonju Gu, Chae Kyung Sim, Dukhang Lee, _Analyses Polarimetric Properties of Reiner Gamma Swirl through Wide-Angle Polarimetric Camera (PolCam) Data onboard Danuri_
+: **\[Poster, [Abstract](../assets/pdf/202312_AGUFM_Abstract_SRKim.pdf)\]** Serin Kim, Shuai Li, Minsup Jeong, **Kilho Baek**, Sungsoo S. Kim, Eunjin Cho, _Polarimetric Measurements of Apollo 14, and 16 Soil Samples_
 
 KSSS Fall Meeting, Venezia Hotel & Resort, Yeosu, Rep. of Korea, Oct. 25-27, 2023.
 : **\[Poster, [Abstract](../assets/pdf/202310_KSSS_Abstract_SRKim.pdf)\]** Serin Kim, Shuai Li, Minsup Jeong, Young-Jun Choi, **Kilho Baek**, Sungsoo S. Kim, Eunjin Cho, _Polarimetric Measurements of Apollo Soil Samples by Particle Size_
