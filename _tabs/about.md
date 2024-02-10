@@ -13,11 +13,11 @@ values:
 
 ### Employment
 - Assistant Editor (Temporary), [JKAS (Journal of the Korean Astronomical Society)](http://jkas.kas.org), [Korean Astronomical Society](http://en.kas.org/), 2022.01-present
-- Researcher, Radar Analysis Division, [Weather Radar Center](https://radar.kma.go.kr/eng/main.do), [Korea Meteorological Administration](https://www.kma.go.kr/eng/index.jsp), 2018.02-2021.03
+- Technical Research Personnel, Radar Analysis Division, [Weather Radar Center](https://radar.kma.go.kr/eng/main.do), [Korea Meteorological Administration](https://www.kma.go.kr/eng/index.jsp), 2018.02-2021.03 (Alternative military service)
 
 ### Education
 - M.S./Ph.D., School of Space Research, Kyung Hee University, 2021.03-present
-- M.S./Ph.D., School of Space Research, Kyung Hee University, 2015.03-2018.02 (Coursework)
+- Graduate coursework, School of Space Research, Kyung Hee University, 2015.03-2018.02
 - B.S., Department of Astronomy & Space Science, Kyung Hee University, 2011.03-2015.02
 
 
@@ -27,10 +27,10 @@ LPSC, The Woodlands Waterway Marriott Hotel & Convention Center, Houston, USA, M
 : **\[[Oral], [Abstract](../assets/pdf/202403_LPSC_Abstract_KHBaek.pdf)\]** **Kilho Baek**, Sungsoo S. Kim, Chae Kyung Sim, _Asymmetric Space Weathering and Impact Gardening on Lunar Crater Walls_
 
 KAS Spring Meeting, Venezia Hotel & Resort, Yeosu, Rep. of Korea, Apr. 17-19, 2024.
-: **\[Abstract\]** 
+: (before submitting the abstract)
 
 KSSS Spring Meeting, LAHAN Select, Gyeongju, Rep. of Korea, Apr. 24-26, 2024.
-: **\[Abstract\]** 
+: (before submitting the abstract)
 
 AOGS Annual Meeting, Alpensia Resort & Yongpyong Resort, Pyeongchang, Rep. of Korea, Jun. 23-28, 2024.
 : **\[[Abstract](../assets/pdf/202406_AOGS_Abstract_KHBaek.pdf)\]** **Kilho Baek**, Sungsoo S. Kim, Chae Kyung Sim, _Latitudinal and Longitudinal Asymmetries Caused by Space Weathering and Impact Gardening_
@@ -41,9 +41,10 @@ COSPAR Scientific Assembly, BEXCO, Busan, Rep. of Korea, Jul. 13-21, 2024.
 : **\[Abstract\]** Serin Kim, Shuai Li, Minsup Jeong, **Kilho Baek**, Sungsoo S. Kim, Eunjin Cho, Young-Jun Choi, _Polarimetric Experiments of Lunar Soil Samples by Particle Size_
 
 EPSC, Henry Ford Building, Freie Universität Berlin, Germany, Sep. 8–13, 2024.
-: **\[Abstract\]**
+: (before submitting the abstract)
 
 AGU Fall Meeting, Washington DC, USA, Dec. 9-13, 2024.
+: (before submitting the abstract)
 
 
 ## PUBLICATIONS
