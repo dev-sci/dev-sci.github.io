@@ -24,19 +24,21 @@ values:
 ## **!!! Upcoming Meetings !!!**
 
 LPSC, The Woodlands Waterway Marriott Hotel & Convention Center, Houston, USA, Mar. 11-15, 2024.
-: **\[[Oral](../assets/pdf/202403_LPSC_Oral_KHBaek.pptx), [Abstract](../assets/pdf/202403_LPSC_Abstract_KHBaek.pdf)\]** **Kilho Baek**, Sungsoo S. Kim, Chae Kyung Sim, _**Asymmetric Space Weathering and Impact Gardening on Lunar Crater Walls**_
+: **\[[Oral](../assets/pdf/202403_LPSC_Oral_KHBaek_readonly.pptx), [Abstract](../assets/pdf/202403_LPSC_Abstract_KHBaek.pdf)\]** **Kilho Baek**, Sungsoo S. Kim, Chae Kyung Sim, _**Asymmetric Space Weathering and Impact Gardening on Lunar Crater Walls**_
+: **\[Oral, [Abstract](../assets/pdf/202403_LPSC_Abstract_YJChoi.pdf)\]** Young-Jun Choi, Minsup Jeong, Sungsoo S. Kim, Kilho Baek, Eunjin Cho, Minbae Kim, Bongkon Moon, Chae Kyung Sim, Dukhang Lee, Kyung-In Kang, Bon-Ju Gu, _**Results of the One-Year Operation of the Wide-Angle Polarimetic Camera Onboard Danuri**_
 
 KAS Spring Meeting, Venezia Hotel & Resort, Yeosu, Rep. of Korea, Apr. 17-19, 2024.
-: **\[Oral, [Abstract](../assets/pdf/202404_KAS_Abstract_KHBaek.pdf)\]** **Kilho Baek**, Sungsoo S. Kim, Chae Kyung Sim, _**Interpretation of the Lunar Surface Evolution Combining Space Weathering and Impact Gardening**_
+: **\[[Oral](../assets/pdf/202404_KAS_Oral_KHBaek_readonly.pptx), [Abstract](../assets/pdf/202404_KAS_Abstract_KHBaek.pdf)\]** **Kilho Baek**, Sungsoo S. Kim, Chae Kyung Sim, _**Interpretation of the Lunar Surface Evolution Combining Space Weathering and Impact Gardening**_
+: **\[Oral, [Abstract](../assets/pdf/202404_KAS_Abstract_SRKim.pdf)\]** Serin Kim, Shuai Li, Minsup Jeong, **Kilho Baek**, Sungsoo S. Kim, Eunjin Cho, Young-Jun Choi, _**Polarimetric Measurements of Lunar Soils by Particle Size**_
 
 KSSS Spring Meeting, LAHAN Select, Gyeongju, Rep. of Korea, Apr. 24-26, 2024.
-: **\[Poster, [Abstract](../assets/pdf/202404_KSSS_Abstract_KHBaek.pdf)\]** **Kilho Baek**, Sungsoo S. Kim, Chae Kyung Sim, _**Interpretation of the Lunar Surface Evolution Combining Space Weathering and Impact Gardening**_
+: **\[[Poster](../assets/pdf/202404_KSSS_Poster_KHBaek.pdf, [Abstract](../assets/pdf/202404_KSSS_Abstract_KHBaek.pdf)\]** **Kilho Baek**, Sungsoo S. Kim, Chae Kyung Sim, _**Interpretation of the Lunar Surface Evolution Combining Space Weathering and Impact Gardening**_
 
 AOGS Annual Meeting, Alpensia Resort & Yongpyong Resort, Pyeongchang, Rep. of Korea, Jun. 23-28, 2024.
-: **\[TBD, [Abstract](../assets/pdf/202406_AOGS_Abstract_KHBaek.pdf)\]** **Kilho Baek**, Sungsoo S. Kim, Chae Kyung Sim, _**Latitudinal and Longitudinal Asymmetries Caused by Space Weathering and Impact Gardening**_
+: **\[Oral, [Abstract](../assets/pdf/202406_AOGS_Abstract_KHBaek.pdf)\]** **Kilho Baek**, Sungsoo S. Kim, Chae Kyung Sim, _**Latitudinal and Longitudinal Asymmetries Caused by Space Weathering and Impact Gardening**_
 
 COSPAR Scientific Assembly, BEXCO, Busan, Rep. of Korea, Jul. 13-21, 2024.
-: **\[TBD, [Abstract](../assets/pdf/202407_COSPAR_Abstract_KHBaek.pdf)\]** **Kilho Baek**, Sungsoo S. Kim, Chae Kyung Sim, _**Maturation by Solar-Wind Particles and Refreshment by Meteorite Impacts on the Lunar Crater Walls**_
+: **\[Poster, [Abstract](../assets/pdf/202407_COSPAR_Abstract_KHBaek.pdf)\]** **Kilho Baek**, Sungsoo S. Kim, Chae Kyung Sim, _**Maturation by Solar-Wind Particles and Refreshment by Meteorite Impacts on the Lunar Crater Walls**_
 : **\[TBD, [Abstract](../assets/pdf/202407_COSPAR_Abstract_YJChoi.pdf)\]** Young-Jun Choi, Sungsoo S. Kim, Minsup Jeong, **Kilho Baek**, Bongkon Moon, Dukhang Lee, Chae Kyung Sim, Kyung-In Kang, Bonju Gu, _**A Year of PolCam Operations on Danuri**_
 : **\[TBD, [Abstract](../assets/pdf/202407_COSPAR_Abstract_MSJeong.pdf)\]** Minsup Jeong, Young-Jun Choi, Sungsoo S. Kim, **Kilho Baek**, Bongkon Moon, Dukhang Lee, Chae Kyung Sim, Kyung-In Kang, Bonju Gu, _**Polarimetric Analysis of Reiner Gamma Swirl Using Danuri's PolCam Data**_
 : **\[TBD, [Abstract](../assets/pdf/202407_COSPAR_Abstract_SRKim.pdf)\]** Serin Kim, Shuai Li, Minsup Jeong, **Kilho Baek**, Sungsoo S. Kim, Eunjin Cho, Young-Jun Choi, _**Polarimetric Experiments of Lunar Soil Samples by Particle Size**_
@@ -102,13 +104,13 @@ APRIM, Big Palette, Koriyama, Japan, Aug. 7-11, 2023.
 <div markdown='1'>
 
 KSSS Fall Meeting, Ramada Plaza, Jeju, Rep. of Korea, Oct. 26-28, 2022.
-: **\[Oral, Abstract\]** **Kilho Baek**, Sungsoo S. Kim, Chae Kyung Sim, _**Asymmetric Space Weathering on Lunar Crater Walls with an Updated Crater List**_
-: **\[Oral, Abstract\]** Minsup Jeong, Sungsoo S. Kim, **Kilho Baek**, Chae Kyung Sim, Young-Jun Choi, Serin Kim, _**Operation and Data Processing Plan of the Wide-Angle Polarimetric Camera Onboarded Danuri**_
-: **\[Poster, Abstract\]** Eunjin Cho, Chae Kyung Sim, **Kilho Baek**, Young-Jun Choi, Sungsoo S. Kim, _**Analysis of spectral difference between crater floors and halos**_
+: **\[[Oral](../assets/pdf/202210_KSSS_Oral_KHBaek_readonly.pptx, [Abstract](../assets/pdf/202210_KSSS_Abstract_KHBaek.pdf)\]** **Kilho Baek**, Sungsoo S. Kim, Chae Kyung Sim, _**Asymmetric Space Weathering on Lunar Crater Walls with an Updated Crater List**_
+: **\[Oral, [Abstract](../assets/pdf/202210_KSSS_Abstract_MSJeong.pdf)\]** Minsup Jeong, Sungsoo S. Kim, **Kilho Baek**, Chae Kyung Sim, Young-Jun Choi, Serin Kim, _**Operation and Data Processing Plan of the Wide-Angle Polarimetric Camera Onboarded Danuri**_
+: **\[Poster, [Abstract](../assets/pdf/202210_KSSS_Abstract_EJCho.pdf)\]** Eunjin Cho, Chae Kyung Sim, **Kilho Baek**, Young-Jun Choi, Sungsoo S. Kim, _**Analysis of spectral difference between crater floors and halos**_
 
 KAS Fall Meeting, LAHAN Select, Gyeongju, Rep. of Korea, Oct. 12-14, 2022.
-: **\[Oral, Abstract\]** **Kilho Baek**, Sungsoo S. Kim, Chae Kyung Sim, _A Study on Asymmetric Space Weathering with an Updated Lunar Crater list_
-: **\[Poster, Abstract\]** Serin Kim, **Kilho Baek**, Minsup Jeong, Sungsoo S. Kim, Young-Jun Choi, Chae Kyung Sim, _**Data Processing Pipeline for KPLO/PolCam**_
+: **\[[Oral](../assets/pdf/202210_KAS_Oral_KHBaek_readonly.pptx), [Abstract](../assets/pdf/202210_KAS_Abstract_KHBaek.pdf)\]** **Kilho Baek**, Sungsoo S. Kim, Chae Kyung Sim, _A Study on Asymmetric Space Weathering with an Updated Lunar Crater list_
+: **\[Poster, [Abstract](../assets/pdf/202210_KAS_Abstract_SRKim.pdf)\]** Serin Kim, **Kilho Baek**, Minsup Jeong, Sungsoo S. Kim, Young-Jun Choi, Chae Kyung Sim, _**Data Processing Pipeline for KPLO/PolCam**_
 
 KGU Meeting, Alpensia, Pyeongchang, Rep. of Korea, Aug. 17-19, 2022.
 : **\[Oral, [Abstract](../assets/pdf/202208_KGU_Abstract_SSKim.pdf)\]** Sungsoo S. Kim, **Kilho Baek**, Chae Kyung Sim, _**Asymmetric Space Weathering on Lunar Crater Walls**_
@@ -128,7 +130,7 @@ KSSS Spring Meeting, Sol Beach, Samcheok, Rep. of Korea, Apr. 27-29, 2022.
 <div markdown='1'>
 
 KSSS Fall Meeting, LAHAN Select, Gyeongju, Rep. of Korea, Oct. 27-29, 2021.
-: **\[[Oral](../assets/pdf/202110_KSSS_Oral_KHBaek.pptx), [Abstract](../assets/pdf/202110_KSSS_Abstract_KHBaek.pdf)\]** **Kilho Baek**, Sungsoo S. Kim, Chae Kyung Sim, _**Optical properties on the walls of lunar craters larger than 2 km**_ (☆ Best Oral Presentation Award)
+: **\[[Oral](../assets/pdf/202110_KSSS_Oral_KHBaek_readonly.pptx), [Abstract](../assets/pdf/202110_KSSS_Abstract_KHBaek.pdf)\]** **Kilho Baek**, Sungsoo S. Kim, Chae Kyung Sim, _**Optical properties on the walls of lunar craters larger than 2 km**_ (☆ Best Oral Presentation Award)
 
 </div>
 </details>
