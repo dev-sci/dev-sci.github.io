@@ -32,7 +32,7 @@ KAS Spring Meeting, Venezia Hotel & Resort, Yeosu, Rep. of Korea, Apr. 17-19, 20
 : **\[Oral, [Abstract](../assets/pdf/202404_KAS_Abstract_SRKim.pdf)\]** Serin Kim, Shuai Li, Minsup Jeong, **Kilho Baek**, Sungsoo S. Kim, Eunjin Cho, Young-Jun Choi, _**Polarimetric Measurements of Lunar Soils by Particle Size**_
 
 KSSS Spring Meeting, LAHAN Select, Gyeongju, Rep. of Korea, Apr. 24-26, 2024.
-: **\[[Poster](../assets/pdf/202404_KSSS_Poster_KHBaek.pdf, [Abstract](../assets/pdf/202404_KSSS_Abstract_KHBaek.pdf)\]** **Kilho Baek**, Sungsoo S. Kim, Chae Kyung Sim, _**Interpretation of the Lunar Surface Evolution Combining Space Weathering and Impact Gardening**_
+: **\[[Poster](../assets/pdf/202404_KSSS_Poster_KHBaek.pdf), [Abstract](../assets/pdf/202404_KSSS_Abstract_KHBaek.pdf)\]** **Kilho Baek**, Sungsoo S. Kim, Chae Kyung Sim, _**Interpretation of the Lunar Surface Evolution Combining Space Weathering and Impact Gardening**_
 
 AOGS Annual Meeting, Alpensia Resort & Yongpyong Resort, Pyeongchang, Rep. of Korea, Jun. 23-28, 2024.
 : **\[Oral, [Abstract](../assets/pdf/202406_AOGS_Abstract_KHBaek.pdf)\]** **Kilho Baek**, Sungsoo S. Kim, Chae Kyung Sim, _**Latitudinal and Longitudinal Asymmetries Caused by Space Weathering and Impact Gardening**_
